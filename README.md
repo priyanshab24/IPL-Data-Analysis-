@@ -11,7 +11,9 @@ The dashboard enables users to explore historical IPL data dynamically and under
 🎥 Project Preview
 👉 Watch Full Dashboard Walkthrough:  https://github.com/priyanshab24/IPL-Data-Analysis-/blob/main/20260520065458.mp4
 
-🏠 Overview Dashboard:
+## 📸 Preview
+
+![SDG Dashboard Preview](https://github.com/priyanshab24/SDG/blob/main/Screenshot%202026-05-11%20121029.png)
 
 🎯 Objectives:
 Analyze team performance across IPL seasons
