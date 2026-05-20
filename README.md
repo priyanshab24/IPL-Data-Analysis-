@@ -9,11 +9,11 @@ It transforms raw IPL match data from 2008 to 2025 into meaningful insights abou
 The dashboard enables users to explore historical IPL data dynamically and understand patterns behind winning teams and standout players.
 
 🎥 Project Preview
-👉 Watch Full Dashboard Walkthrough:  https://github.com/priyanshab24/IPL-Data-Analysis-/blob/main/20260520065458.mp4
+👉 Watch Full Dashboard Walkthrough.(https://github.com/priyanshab24/IPL-Data-Analysis-/blob/main/20260520065458.mp4)
 
 ## 📸 Preview
 
-![SDG Dashboard Preview](https://github.com/priyanshab24/SDG/blob/main/Screenshot%202026-05-11%20121029.png)
+![IPL Dashboard Preview](https://github.com/priyanshab24/IPL-Data-Analysis-/blob/main/Screenshot%202026-05-20%20065947.png)
 
 🎯 Objectives:
 Analyze team performance across IPL seasons
